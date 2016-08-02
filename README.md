@@ -1,2 +1,7 @@
 # trumpatine
-Comparing Trump's RNC Speech to Darth Sidious's Declaration of a New Order
+
+Ever noticed how Trump sounds worryingly... uh... well, evil?
+
+Here's why. 
+
+View trumpatine.txt to see just how closely Trump and Darth Sidious overlap. (Hint: it's a lot)
